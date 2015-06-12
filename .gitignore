@@ -1,0 +1,8 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Config/DefaultEditorPerProjectUserSettings.ini
+*.sdf
+*.sln
+*.suo
